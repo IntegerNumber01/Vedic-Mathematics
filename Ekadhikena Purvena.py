@@ -41,9 +41,3 @@ def main(num1, num2):
         else:
             return None
         return '0.' + answer + '...'
-
-
-num1 = 1
-num2 = 19
-print(main(num1, num2))
-print(num1 / num2)
