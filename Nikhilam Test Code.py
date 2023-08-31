@@ -10,7 +10,7 @@ except RecursionError:
     print('ERROR: ', num1, 'x', num2)
 
 
-## Exahustive check for equations solved ##
+## Exahaustive check for equations solved ##
 count = 0
 for i in range(10):
     for x in range(10):
